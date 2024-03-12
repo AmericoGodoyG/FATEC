@@ -1,6 +1,6 @@
 <?php
  
-    *** ESTRUTURA CONDCIONAL => IF ***
+   // *** ESTRUTURA CONDCIONAL => IF ***
 
     $variavel1 = true;
     $variavel2 = true;
@@ -15,7 +15,7 @@
 
  
 
-    *** ESTRUTURA CONDCIONAL => IF ELSE ***
+   // *** ESTRUTURA CONDCIONAL => IF ELSE ***
 
     $nota = 7; 
 
@@ -27,7 +27,7 @@
 
 
 
-     *** OPERADOR TERNÁRIO *** 
+    // *** OPERADOR TERNÁRIO *** 
 
     VERSÃO COMPACTA DO IF.
 
@@ -41,9 +41,7 @@
      echo $nota >= 7 ? "Aluno(a) aprovado !" : "Aluno(a) reprovado !";
 
 
-
-
-    *** ESTRUTURA CONDICIONAL IF-ELSEIF - ELSE ***
+   // *** ESTRUTURA CONDICIONAL IF-ELSEIF - ELSE ***
  
     $nota = 1; 
 
@@ -63,8 +61,7 @@
     }*
 
 
-
-    *** ESTRUTURA CONDICIONAL SWITCH CASE ***
+   // *** ESTRUTURA CONDICIONAL SWITCH CASE ***
 
     $sorteio = rand(0,5); // função rand gera um inteiro randomico.
 
