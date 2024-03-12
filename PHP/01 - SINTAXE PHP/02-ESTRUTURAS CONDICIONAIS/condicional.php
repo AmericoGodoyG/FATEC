@@ -1,5 +1,5 @@
 <?php
- /* 
+ 
     *** ESTRUTURA CONDCIONAL => IF ***
 
     $variavel1 = true;
@@ -86,7 +86,5 @@
         default:
             echo " => Jogue novamente!";
             break;
-    }
-*/ 
-
+    } 
 ?>
