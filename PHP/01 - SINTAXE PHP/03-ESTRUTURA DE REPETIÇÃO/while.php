@@ -7,11 +7,8 @@ WHILE E DO WHILE
 
 // condicional pré-teste
 While (condição) {
-
     // bloco de código
-
 }
-
 
 
 // condicional pós-teste
@@ -25,20 +22,20 @@ do {
 
 $frutas = ["banana", "maça", "pera", "uva"];
 
-// $cont = count($frutas);
+ $cont = count($frutas);
 
-// $i = 0;
+ $i = 0;
 
-// while ($i < $cont) {
+ while ($i < $cont) {
 
-//     if ($frutas[$i] == "pera") {
-//         break;
-//     }
+     if ($frutas[$i] == "pera") {
+         break;
+     }
 
-//     echo $frutas[$i] . "\n";
+     echo $frutas[$i] . "\n";
 
-//     $i++; 
-// }
+     $i++; 
+ }
 
 $cont = count($frutas);
 $i = 3;
